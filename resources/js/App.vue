@@ -1,5 +1,9 @@
+<script setup>
+ import name from "@/name.vue";
+</script>
+
 <template>
     <h1>
-        How To Install Vue 3 in Laravel 10 : ZWebCourses :)
+        Vue.js finished installed by <name></name>
     </h1>
 </template>
